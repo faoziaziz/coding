@@ -1,5 +1,9 @@
 	
-
+/*
+	source in http://pastebin.com/jyr0EQ8d
+	
+	
+*/
     #include<stdio.h>
     #define MAX 50
      
